@@ -6,14 +6,12 @@ import '../styles/Home.css';
 const Home = () => {
   const [theme, setTheme] = useState('light');
 
-  // Toggle between light and dark
   const toggleTheme = () => {
     const newTheme = theme === 'light' ? 'dark' : 'light';
     setTheme(newTheme);
     document.documentElement.setAttribute('data-theme', newTheme);
   };
 
-  // Initialize theme
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme);
   }, []);
