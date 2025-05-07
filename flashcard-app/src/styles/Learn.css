@@ -1,0 +1,101 @@
+:root {
+    --bg-color: #fff;
+    --text-color: #333;
+    --card-math: #ffd6e0;
+    --card-science: #d0f4de;
+    --card-history: #fce1b4;
+    --card-english: #d0e8f2;
+    --input-bg: #fff;
+    --input-color: #333;
+  }
+  
+  [data-theme='dark'] {
+    --bg-color: #1a1a2e;
+    --text-color: #fff;
+    --card-math: #663b53;
+    --card-science: #3e5c59;
+    --card-history: #6a4e2a;
+    --card-english: #3b4c59;
+    --input-bg: #2e2e4d;
+    --input-color: #eee;
+  }
+  
+  .learn-page {
+    min-height: 100vh;
+    padding: 2rem;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .theme-toggle-icon {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color: var(--text-color);
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 12px;
+    margin: 20px 0 40px;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    font-size: 1rem;
+    background-color: var(--input-bg);
+    color: var(--input-color);
+    transition: background-color 0.3s ease;
+  }
+  
+  .subjects {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 25px;
+  }
+  
+  .subject-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    border-radius: 15px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: var(--text-color);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .subject-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .subject-icon {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+  }
+  
+  /* Specific pastel colors for each subject */
+  .math {
+    background-color: var(--card-math);
+  }
+  
+  .science {
+    background-color: var(--card-science);
+  }
+  
+  .history {
+    background-color: var(--card-history);
+  }
+  
+  .english {
+    background-color: var(--card-english);
+  }
+  
