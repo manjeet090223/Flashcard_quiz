@@ -1,7 +1,7 @@
 import React from 'react';
 import { Sun, Moon } from 'lucide-react';
 import { useTheme } from './ThemeContext';
-import './ToggleButton.css'; // Include your styles or import from your home page
+import './ToggleButton.css'; 
 
 const ToggleButton = () => {
   const { isDarkMode, toggleTheme } = useTheme();
@@ -12,5 +12,4 @@ const ToggleButton = () => {
     </button>
   );
 };
-
 export default ToggleButton;

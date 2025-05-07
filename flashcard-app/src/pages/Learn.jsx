@@ -21,7 +21,6 @@ const Learn = () => {
     setIsDarkMode(!isDarkMode);
   };
 
-  // Update the data-theme attribute for dark/light mode
   useEffect(() => {
     if (isDarkMode) {
       document.documentElement.setAttribute('data-theme', 'dark');
