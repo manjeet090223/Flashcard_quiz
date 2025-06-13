@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { FlaskConical, BookOpen, Landmark, Sigma, Sun, Moon } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
 import '../styles/Learn.css';
 
 const subjectsData = [
@@ -12,6 +13,7 @@ const subjectsData = [
 const Learn = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [isDarkMode, setIsDarkMode] = useState(true);
+  const navigate = useNavigate();
 
   const filteredSubjects = subjectsData.filter(subject =>
     subject.name.toLowerCase().includes(searchTerm.toLowerCase())
@@ -22,17 +24,17 @@ const Learn = () => {
   };
 
   useEffect(() => {
-    if (isDarkMode) {
-      document.documentElement.setAttribute('data-theme', 'dark');
-    } else {
-      document.documentElement.setAttribute('data-theme', 'light');
-    }
+    document.documentElement.setAttribute('data-theme', isDarkMode ? 'dark' : 'light');
   }, [isDarkMode]);
+
+  const handleSubjectClick = (subjectName) => {
+    navigate(`/learn/${subjectName.toLowerCase()}`);
+  };
 
   return (
     <div className={`learn-page`}>
       <div className="header">
-        <h1>Explore Subjects</h1>
+        <h1 className="title">Explore Subjects</h1>
         <button onClick={toggleTheme} className="theme-toggle-icon">
           {isDarkMode ? <Sun size={24} /> : <Moon size={24} />}
         </button>
@@ -48,7 +50,12 @@ const Learn = () => {
 
       <div className="subjects">
         {filteredSubjects.map((subject, index) => (
-          <div key={index} className={`subject-card ${subject.className}`}>
+          <div
+            key={index}
+            className={`subject-card ${subject.className}`}
+            onClick={() => handleSubjectClick(subject.name)}
+            style={{ cursor: 'pointer' }}
+          >
             <div className="subject-icon">{subject.icon}</div>
             {subject.name}
           </div>

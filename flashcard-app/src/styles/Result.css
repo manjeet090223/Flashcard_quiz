@@ -1,0 +1,71 @@
+.result-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 30px 20px;
+  min-height: 100vh;
+  background-color: var(--bg-color, #f9f9f9);
+  font-family: 'Comic Sans MS', cursive;
+  text-align: center;
+  position: relative;
+}
+
+.result-trophy {
+  width: 200px;
+  height: 200px;
+}
+
+h1 {
+  font-size: 2rem;
+  color:  var(--text-color);
+  margin: 20px 0;
+}
+
+.star-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 10px 0;
+}
+
+.star {
+  font-size: 2rem;
+  margin: 5px;
+  transition: transform 0.3s ease;
+}
+
+.star.filled {
+  color: gold;
+}
+
+.star.empty {
+  color: #ccc;
+}
+
+.score-text {
+  font-size: 1.2rem;
+  color:  var(--text-color);
+  margin-top: 10px;
+}
+
+.result-buttons {
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+}
+
+.result-buttons button {
+  background-color: #ffb703;
+  color: white;
+  border: none;
+  padding: 12px 18px;
+  border-radius: 12px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.result-buttons button:hover {
+  background-color: #f77f00;
+}

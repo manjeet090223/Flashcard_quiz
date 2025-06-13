@@ -1,0 +1,56 @@
+
+.auth-container {
+  max-width: 400px;
+  margin: 5rem auto;
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  background-color: #f9fbe7;
+  text-align: center;
+}
+
+.auth-container h2 {
+  color: #4e342e;
+  margin-bottom: 1rem;
+}
+
+.auth-container input {
+  width: 80%;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  margin: 1rem 0;
+  outline: none;
+}
+
+.auth-container button {
+  background-color: #4db6ac;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.auth-container button:hover {
+  background-color: #26a69a;
+}
+
+
+
+.success-msg {
+  color: #2e7d32;
+  background-color: #c8e6c9;
+  padding: 10px 20px;
+  border-radius: 8px;
+  margin-top: 1rem;
+  font-weight: 500;
+  animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}

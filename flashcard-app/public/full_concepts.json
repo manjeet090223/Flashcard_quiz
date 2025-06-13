@@ -1,0 +1,90 @@
+{
+  "Math": [
+    {
+      "concept": "BODMAS",
+      "videoUrl": "https://www.youtube.com/embed/cbgsKc1xFCk?si=LhFXYrWJLb_qwtaV" 
+    },
+    {
+      "concept": "ALGEBRA",
+       "videoUrl": "https://www.youtube.com/embed/dtnvT4CtJAc?si=Snv-xs-NuRZBJf5O"
+    },
+    {
+      "concept": "FRACTIONS",
+       "videoUrl": "https://www.youtube.com/embed/9hZkk73nJ_Y?si=R7KQhFfs_o01U19f"  
+    },
+    {
+      "concept": "PERIMETER",
+       "videoUrl": "https://www.youtube.com/embed/JAy_CETEyUM?si=L_RGxv59w1Hry3Ss" 
+    },
+    {
+      "concept": "AREA",
+       "videoUrl": "https://www.youtube.com/embed/d_6XOBpoDz4?si=MxDEemuTIp_WcWkH"  
+    }
+  ],
+  "Science": [
+    {
+      "concept": "Photosynthesis",
+      "videoUrl":"https://www.youtube.com/embed/yHVhM-pLRXk?si=-BkUqKExrUPXSRPD" 
+    },
+    {
+      "concept": "States of Matter",
+     "videoUrl":"https://www.youtube.com/embed/QQsybALJoew?si=0dyp0FxSwpftgr71" 
+    },
+    {
+      "concept": "The Solar System",
+       "videoUrl":"https://www.youtube.com/embed/w36yxLgwUOc?si=YU0vfDzcWsRGO7Eo"  
+    },
+    {
+      "concept": "Water Cycle",
+      "videoUrl":"https://www.youtube.com/embed/9pqh6tlEOhs?si=_dQ10yx7HCI7EdJb"  
+    },
+    {
+      "concept": "Human Body",
+      "videoUrl":"https://www.youtube.com/embed/Bl29OKlm5Js?si=yNHThSQ4Tco_5Q_U" 
+    }
+  ],
+  "History": [
+    {
+      "concept": "Indus Valley Civilization",
+      "videoUrl":"https://www.youtube.com/embed/KhDY4KJuvc0?si=28Rn1lHlCFY1oVnw"  
+    },
+    {
+      "concept": "The Freedom Struggle",
+      "videoUrl":"https://www.youtube.com/embed/cPjRaw8CVr8?si=jsaLlyhMYzHMXApW" 
+    },
+    {
+      "concept": "Mughal Empire",
+       "videoUrl":"https://www.youtube.com/embed/fMsmCxIEQr4?si=LGjf4pTBwA3Qei9d" 
+    },
+    {
+      "concept": "British Rule",
+       "videoUrl":"https://www.youtube.com/embed/gIzQxNZfGM4?si=chSCX1sL18k2bMqo" 
+    },
+    {
+      "concept": "Gandhiji and Non-violence",
+      "videoUrl":"https://www.youtube.com/embed/y0uNJRQgNMM?si=kJfQEu1PYMgwpHQe"  
+    }
+  ],
+  "English": [
+    {
+      "concept": "Nouns",
+      "videoUrl":"https://www.youtube.com/embed/_II6ySgUtWc?si=gnrjQRqCfFFAgbZj"   
+    },
+    {
+      "concept": "Verbs",
+      "videoUrl":"https://www.youtube.com/embed/y0uNJRQgNMM?si=kJfQEu1PYMgwpHQe"  
+    },
+    {
+      "concept": "Adjectives",
+      "videoUrl":"https://www.youtube.com/embed/y0uNJRQgNMM?si=kJfQEu1PYMgwpHQe"  
+    },
+    {
+      "concept": "Tenses",
+       "videoUrl":"https://www.youtube.com/embed/y0uNJRQgNMM?si=kJfQEu1PYMgwpHQe"  
+    },
+    {
+      "concept": "Sentence Formation",
+     "videoUrl":"https://www.youtube.com/embed/y0uNJRQgNMM?si=kJfQEu1PYMgwpHQe"  
+    }
+  ]
+}

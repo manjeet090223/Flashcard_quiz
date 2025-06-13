@@ -1,0 +1,132 @@
+
+.flashcards-container {
+  text-align: center;
+  padding: 2rem;
+  font-family: 'Comic Sans MS', cursive;
+  font-size: 2rem;
+}
+
+.flashcard {
+  width: 60rem;
+  height: 30rem;
+  margin: 1rem auto;
+  perspective: 1000px;
+  cursor: pointer;
+  margin-bottom: 4rem;
+}
+
+.flashcard .front,
+.flashcard .back {
+  background: url("https://i.pinimg.com/736x/a1/20/c6/a120c6c3ce6e7c20a53f5278ff8e84ce.jpg");
+  color:black;
+  border-radius: 16px;
+  padding: 1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  backface-visibility: hidden;
+  position: absolute;
+  width: 100%;
+  transition: transform 0.6s ease-in-out;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.flashcard .front {
+  z-index: 2;
+}
+
+.flashcard .back {
+  transform: rotateY(180deg);
+  flex-direction: column;
+}
+
+.flashcard.flipped .front {
+  transform: rotateY(180deg);
+}
+
+.flashcard.flipped .back {
+  transform: rotateY(360deg);
+}
+
+.card-controls {
+  margin-top: 1rem;
+}
+
+.card-controls button {
+  background-color: #007acc;
+  color: white;
+  border: none;
+  padding: 0.7rem 1.2rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.card-controls button:hover {
+  background-color: #005f99;
+}
+
+.video-container {
+  width: 100%;
+  height: 30rem;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.top-right-animation {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  z-index: 20;
+}
+
+.bottom-left-animation {
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+  z-index: 20;
+}
+
+.card-navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  position: relative;
+}
+
+.arrow {
+  font-size: 2.8rem;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+  user-select: none;
+  color: #007acc;
+  margin: 0 0.5rem; 
+}
+
+.arrow:hover {
+  transform: scale(1.2);
+}
+
+
+
+@media (max-width: 768px) {
+  .flashcard {
+    width: 90%;
+    height: 24rem;
+  }
+
+  .video-container {
+    height: 20rem;
+  }
+
+  .top-right-animation,
+  .bottom-left-animation {
+    width: 80px;
+  }
+}
+
+
+

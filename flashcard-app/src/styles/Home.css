@@ -1,5 +1,5 @@
 :root {
-    --bg-color: #fff;
+    --bg-color: #ffffffd0;
     --text-color: #333;
     --button-color: #ffd166;
     --learn-color: #2c7c66;
@@ -13,6 +13,19 @@
     --learn-color: #2c7c66;
     --quiz-color: #cd6728;
   }
+
+  .home-title {
+  font-size: 3rem;
+  animation: pop 0.5s ease-in-out;
+  color: var(--text-color);
+}
+
+.home-subtitle {
+  font-size: 1.5rem;
+  margin-bottom: 40px;
+  color: var(--text-color);
+}
+
   
   body, html {
     margin: 0;
@@ -101,6 +114,35 @@
   .quiz-button {
     background-color: var(--quiz-color);
   }
+
+  .welcome-user {
+  font-size: 1.5rem;
+  margin-top: 10px;
+  color: #2f89d3;
+  background: white;
+  padding: 10px 20px;
+  border-radius: 12px;
+  font-weight: 500;
+  backdrop-filter: blur(6px);
+}
+
+.logout-btn {
+  margin-top: 3rem;
+  background-color: #2f89d3;
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  border-radius: 12px;
+  border: none;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  transition: transform 0.2s ease-in-out;
+}
+
+.logout-btn:hover {
+  background-color: #2f89d3;
+}
+
   
   @keyframes pop {
     0% { transform: scale(0.8); opacity: 0; }

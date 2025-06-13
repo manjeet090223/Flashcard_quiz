@@ -1,0 +1,1122 @@
+[
+  {
+    "subject": "Math",
+    "concept": "BODMAS",
+    "questions": [
+      {
+        "question": "What does the 'D' stand for in BODMAS?",
+        "options": ["Division", "Decimal", "Diameter", "Distance"],
+        "answer": "Division"
+      },
+      {
+        "question": "Evaluate: 8 + 2 × 5 = ?",
+        "options": ["50", "60", "18", "40"],
+        "answer": "18"
+      },
+      {
+        "question": "Evaluate: (6 + 2) × 3 = ?",
+        "options": ["24", "30", "18", "48"],
+        "answer": "24"
+      },
+      {
+        "question": "Solve: 18 ÷ (3 + 3) = ?",
+        "options": ["2", "3", "6", "1"],
+        "answer": "3"
+      },
+      {
+        "question": "What is the first operation in 7 + 3 × 2?",
+        "options": ["Addition", "Multiplication", "Division", "Subtraction"],
+        "answer": "Multiplication"
+      },
+      {
+        "question": "Calculate: 20 − 5 × 2 = ?",
+        "options": ["30", "10", "0", "15"],
+        "answer": "10"
+      },
+      {
+        "question": "Evaluate: 9 − (4 ÷ 2) = ?",
+        "options": ["7", "5", "3", "6"],
+        "answer": "7"
+      },
+      {
+        "question": "Solve: (10 − 2) ÷ 2 = ?",
+        "options": ["4", "5", "6", "8"],
+        "answer": "4"
+      },
+      {
+        "question": "What does BODMAS help with?",
+        "options": ["Order of operations", "Units", "Measurements", "Shapes"],
+        "answer": "Order of operations"
+      },
+      {
+        "question": "Evaluate: 6 + 12 ÷ 4 × (3 − 1) = ?",
+        "options": ["12", "18", "24", "14"],
+        "answer": "12"
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "concept": "ALGEBRA",
+    "questions": [
+      {
+        "question": "What is algebra mainly about?",
+        "options": ["Shapes", "Letters and numbers", "Colors", "Stories"],
+        "answer": "Letters and numbers"
+      },
+      {
+        "question": "If x + 5 = 12, x = ?",
+        "options": ["5", "7", "17", "6"],
+        "answer": "7"
+      },
+      {
+        "question": "Simplify: 2x + 3x = ?",
+        "options": ["5x", "6x", "x", "2x"],
+        "answer": "5x"
+      },
+      {
+        "question": "If 3y = 15, y = ?",
+        "options": ["5", "3", "8", "12"],
+        "answer": "5"
+      },
+      {
+        "question": "Simplify: x − 4 + 2 = ?",
+        "options": ["x − 2", "x + 2", "x − 6", "x + 6"],
+        "answer": "x − 2"
+      },
+      {
+        "question": "What is the value of x in 2x = 10?",
+        "options": ["5", "8", "10", "12"],
+        "answer": "5"
+      },
+      {
+        "question": "Simplify: 4x − 2x = ?",
+        "options": ["2x", "6x", "0", "4x"],
+        "answer": "2x"
+      },
+      {
+        "question": "Solve: x/2 = 4, x = ?",
+        "options": ["2", "4", "8", "6"],
+        "answer": "8"
+      },
+      {
+        "question": "What is 3a + 2a − a = ?",
+        "options": ["4a", "5a", "6a", "3a"],
+        "answer": "4a"
+      },
+      {
+        "question": "If a = 3, what is 2a + 1 = ?",
+        "options": ["5", "7", "6", "8"],
+        "answer": "7"
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "concept": "FRACTIONS",
+    "questions": [
+      {
+        "question": "What is 1/2 + 1/4 = ?",
+        "options": ["1/2", "3/4", "2/3", "1"],
+        "answer": "3/4"
+      },
+      {
+        "question": "What is 3/4 − 1/2 = ?",
+        "options": ["1/4", "2/4", "1/2", "1/8"],
+        "answer": "1/4"
+      },
+      {
+        "question": "Which is bigger: 1/3 or 1/4?",
+        "options": ["1/4", "1/3", "Equal", "None"],
+        "answer": "1/3"
+      },
+      {
+        "question": "What is 2/3 + 1/3 = ?",
+        "options": ["1", "2/3", "3/3", "1/3"],
+        "answer": "1"
+      },
+      {
+        "question": "Simplify: 4/8 = ?",
+        "options": ["1/2", "2/4", "1/4", "2/8"],
+        "answer": "1/2"
+      },
+      {
+        "question": "What is 5/6 − 1/3 = ?",
+        "options": ["1/2", "1/3", "2/3", "1/6"],
+        "answer": "1/2"
+      },
+      {
+        "question": "What is 1/4 + 2/4 = ?",
+        "options": ["1/2", "3/4", "1", "2/4"],
+        "answer": "3/4"
+      },
+      {
+        "question": "Which fraction equals 2/4?",
+        "options": ["1/2", "3/4", "1/4", "2/3"],
+        "answer": "1/2"
+      },
+      {
+        "question": "What is half of 3/4?",
+        "options": ["3/8", "1/2", "1/4", "2/4"],
+        "answer": "3/8"
+      },
+      {
+        "question": "Add: 3/5 + 1/5 = ?",
+        "options": ["4/5", "2/5", "1", "3/5"],
+        "answer": "4/5"
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "concept": "PERIMETER",
+    "questions": [
+      {
+        "question": "What is the perimeter of a rectangle with length 5 and width 3?",
+        "options": ["16", "15", "8", "10"],
+        "answer": "16"
+      },
+      {
+        "question": "Perimeter of a square with side 4 is ?",
+        "options": ["12", "16", "8", "20"],
+        "answer": "16"
+      },
+      {
+        "question": "Rectangle is 7 by 2. Perimeter = ?",
+        "options": ["9", "18", "28", "14"],
+        "answer": "18"
+      },
+      {
+        "question": "Square side 6. Perimeter = ?",
+        "options": ["18", "24", "12", "36"],
+        "answer": "24"
+      },
+      {
+        "question": "What is perimeter of triangle with sides 3,4,5?",
+        "options": ["12", "15", "10", "7"],
+        "answer": "12"
+      },
+      {
+        "question": "Square side 10. What is the perimeter?",
+        "options": ["30", "40", "50", "20"],
+        "answer": "40"
+      },
+      {
+        "question": "Rectangle 8 by 4. Perimeter?",
+        "options": ["12", "24", "32", "16"],
+        "answer": "24"
+      },
+      {
+        "question": "Triangle sides 5,5,5. Perimeter?",
+        "options": ["15", "10", "5", "20"],
+        "answer": "15"
+      },
+      {
+        "question": "Rectangle 9 by 1. Perimeter?",
+        "options": ["20", "18", "10", "15"],
+        "answer": "20"
+      },
+      {
+        "question": "Square side 7. Perimeter?",
+        "options": ["28", "21", "14", "35"],
+        "answer": "28"
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "concept": "AREA",
+    "questions": [
+      {
+        "question": "Area of rectangle length 5, width 2 = ?",
+        "options": ["10", "7", "14", "12"],
+        "answer": "10"
+      },
+      {
+        "question": "Area of square side 4 = ?",
+        "options": ["8", "12", "16", "20"],
+        "answer": "16"
+      },
+      {
+        "question": "Square side 6: area = ?",
+        "options": ["36", "12", "24", "30"],
+        "answer": "36"
+      },
+      {
+        "question": "Rectangle 7×3: area = ?",
+        "options": ["21", "10", "24", "14"],
+        "answer": "21"
+      },
+      {
+        "question": "Area of square side 9 = ?",
+        "options": ["81", "36", "72", "27"],
+        "answer": "81"
+      },
+      {
+        "question": "Rectangle 4×4: area = ?",
+        "options": ["16", "12", "8", "20"],
+        "answer": "16"
+      },
+      {
+        "question": "Square side 8: area = ?",
+        "options": ["64", "32", "48", "72"],
+        "answer": "64"
+      },
+      {
+        "question": "Rectangle 6×2: area = ?",
+        "options": ["12", "16", "10", "8"],
+        "answer": "12"
+      },
+      {
+        "question": "Square side 10: area = ?",
+        "options": ["100", "90", "80", "110"],
+        "answer": "100"
+      },
+      {
+        "question": "Area of rectangle 5×5 = ?",
+        "options": ["25", "20", "30", "15"],
+        "answer": "25"
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "concept": "Photosynthesis",
+    "questions": [
+      {
+        "question": "What do plants take in for photosynthesis?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+        "answer": "Carbon Dioxide"
+      },
+      {
+        "question": "Which gas do plants release?",
+        "options": ["Nitrogen", "Oxygen", "CO2", "Hydrogen"],
+        "answer": "Oxygen"
+      },
+      {
+        "question": "Which organ in plant does photosynthesis?",
+        "options": ["Root", "Stem", "Leaf", "Flower"],
+        "answer": "Leaf"
+      },
+      {
+        "question": "Photosynthesis needs sunlight and water.",
+        "options": ["True", "False", "Sometimes", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Plants make food called?",
+        "options": ["Glucose", "Protein", "Fat", "Salt"],
+        "answer": "Glucose"
+      },
+      {
+        "question": "Needed for photosynthesis: light and?",
+        "options": ["Heat", "Water", "Sand", "Soil"],
+        "answer": "Water"
+      },
+      {
+        "question": "Photosynthesis helps plants grow.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "Which colour pigment helps photosynthesis?",
+        "options": ["Chlorophyll", "Melanin", "Carotene", "Xanthophyll"],
+        "answer": "Chlorophyll"
+      },
+      {
+        "question": "Photosynthesis produces food &?",
+        "options": ["Oxygen", "Nitrogen", "Carbon", "Salt"],
+        "answer": "Oxygen"
+      },
+      {
+        "question": "Photosynthesis happens in green parts of plant.",
+        "options": ["True", "False", "Only roots", "Only stems"],
+        "answer": "True"
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "concept": "States of Matter",
+    "questions": [
+      {
+        "question": "Which is a solid?",
+        "options": ["Water", "Steam", "Ice", "Air"],
+        "answer": "Ice"
+      },
+      {
+        "question": "Which is liquid?",
+        "options": ["Rock", "Oil", "Wood", "Sand"],
+        "answer": "Oil"
+      },
+      {
+        "question": "Which is gas?",
+        "options": ["Air", "Stone", "Milk", "Butter"],
+        "answer": "Air"
+      },
+      {
+        "question": "Solid has fixed shape.",
+        "options": ["True", "False", "Sometimes", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Gas fills whole space.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "Liquid takes container shape.",
+        "options": ["True", "False", "No", "Sometimes"],
+        "answer": "True"
+      },
+      {
+        "question": "Ice steaming is gas?",
+        "options": ["No", "Yes", "Maybe", "Never"],
+        "answer": "No"
+      },
+      {
+        "question": "Water boiling makes steam.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "State of matter is solid, liquid or gas.",
+        "options": ["True", "False", "Only solid", "Only gas"],
+        "answer": "True"
+      },
+      {
+        "question": "Ice turning water: melt.",
+        "options": ["True", "False", "Sometimes", "Never"],
+        "answer": "True"
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "concept": "The Solar System",
+    "questions": [
+      {
+        "question": "Which is the Red Planet?",
+        "options": ["Earth", "Jupiter", "Mars", "Saturn"],
+        "answer": "Mars"
+      },
+      {
+        "question": "Sun is a?",
+        "options": ["Star", "Planet", "Moon", "Asteroid"],
+        "answer": "Star"
+      },
+      {
+        "question": "Which planet has rings?",
+        "options": ["Mars", "Venus", "Saturn", "Mercury"],
+        "answer": "Saturn"
+      },
+      {
+        "question": "Earth is 3rd planet.",
+        "options": ["True", "False", "Maybe", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Moon is a planet.",
+        "options": ["False", "True", "Sometimes", "Never"],
+        "answer": "False"
+      },
+      {
+        "question": "Venus is hotter than Earth.",
+        "options": ["True", "False", "Maybe", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Sun gives us light.",
+        "options": ["True", "False", "Maybe", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Jupiter is the largest planet.",
+        "options": ["True", "False", "Maybe", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Mars is sometimes called ‘Red Planet’.",
+        "options": ["True", "False", "Maybe", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Which is closest star to Earth?",
+        "options": ["Proxima", "Sun", "Sirius", "Alpha Centauri"],
+        "answer": "Sun"
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "concept": "Water Cycle",
+    "questions": [
+      {
+        "question": "Which is part of water cycle?",
+        "options": ["Evaporation", "Photosynthesis", "Melting", "Rusting"],
+        "answer": "Evaporation"
+      },
+      {
+        "question": "Water vapour forms clouds.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "Condensation turns vapour to water.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "Precipitation is rain or snow.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "Water cycle goes round and round.",
+        "options": ["True", "False", "Maybe", "Nope"],
+        "answer": "True"
+      },
+      {
+        "question": "Evaporation uses heat from sun.",
+        "options": ["True", "False", "Sometimes", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Water vapor becomes clouds: condensation.",
+        "options": ["True", "False", "Sometimes", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Cycle includes evaporation and precipitation.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "Water cycle keeps repeating.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "Evaporation happens from oceans.",
+        "options": ["True", "False", "Maybe", "Never"],
+        "answer": "True"
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "concept": "Human Body",
+    "questions": [
+      {
+        "question": "Heart pumps blood.",
+        "options": ["True", "False", "Maybe", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Lungs help us breathe.",
+        "options": ["True", "False", "No", "Sometimes"],
+        "answer": "True"
+      },
+      {
+        "question": "Brain is part of body.",
+        "options": ["True", "False", "Maybe", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Bones help us move.",
+        "options": ["True", "False", "Maybe", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Stomach digests food.",
+        "options": ["True", "False", "No", "Sometimes"],
+        "answer": "True"
+      },
+      {
+        "question": "Skin covers our body.",
+        "options": ["True", "False", "Maybe", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Teeth help us chew.",
+        "options": ["True", "False", "Maybe", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Eyes help us see.",
+        "options": ["True", "False", "Maybe", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Ears help us hear.",
+        "options": ["True", "False", "Maybe", "Never"],
+        "answer": "True"
+      },
+      {
+        "question": "Our body helps us live.",
+        "options": ["True", "False", "No", "Sometimes"],
+        "answer": "True"
+      }
+    ]
+  },
+  {
+    "subject": "History",
+    "concept": "Indus Valley Civilization",
+    "questions": [
+      {
+        "question": "Which river supported the Indus Valley?",
+        "options": ["Ganga", "Yamuna", "Indus", "Narmada"],
+        "answer": "Indus"
+      },
+      {
+        "question": "They built towns in grid pattern.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "They used baked bricks.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "They had drainage systems.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "They wrote using seals.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "They farmed crops like wheat.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "They lived in cities like Mohenjo-daro.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "They ruled in 20th century.",
+        "options": ["False", "True", "Maybe", "No"],
+        "answer": "False"
+      },
+      {
+        "question": "They had public baths.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "They were nomads.",
+        "options": ["False", "True", "Maybe", "No"],
+        "answer": "False"
+      }
+    ]
+  },
+  {
+    "subject": "History",
+    "concept": "The Freedom Struggle",
+    "questions": [
+      {
+        "question": "Who led the Salt March?",
+        "options": ["Nehru", "Gandhiji", "Tilak", "Bose"],
+        "answer": "Gandhiji"
+      },
+      {
+        "question": "Salt March was in 1930.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "Freedom Struggle ended in 1947.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "They wanted India independent.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "Gandhiji used non‑violence.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "Quit India Movement was in 1942.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "Jallianwala Bagh happened before 1919.",
+        "options": ["False", "True", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "India got freedom in 1947.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "Nehru was the first PM.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "Freedom struggle was peaceful.",
+        "options": ["True", "False", "Sometimes", "No"],
+        "answer": "Sometimes"
+      }
+    ]
+  },
+  {
+    "subject": "History",
+    "concept": "Mughal Empire",
+    "questions": [
+      {
+        "question": "Which emperor built the Taj Mahal?",
+        "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Babur"],
+        "answer": "Shah Jahan"
+      },
+      {
+        "question": "Akbar was a Mughal emperor.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "Babur started the empire.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "Aurangzeb built Taj Mahal.",
+        "options": ["False", "True", "Maybe", "No"],
+        "answer": "False"
+      },
+      {
+        "question": "Mughals ruled India.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "Taj Mahal is in Agra.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "Shah Jahan was emperor.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "Mughal era had gardens.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "Mughal art was rich.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "They spoke Persian language.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      }
+    ]
+  },
+  {
+    "subject": "History",
+    "concept": "British Rule",
+    "questions": [
+      {
+        "question": "British ruled India before independence.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "East India Company started rule.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "India became independent in 1947.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "British built railways.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "They collected taxes.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "They adopted non‑violence.",
+        "options": ["False", "True", "Maybe", "No"],
+        "answer": "False"
+      },
+      {
+        "question": "They built schools.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "They left in 1947.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "They ruled for hundreds of years.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "British rule was peaceful.",
+        "options": ["Sometimes", "False", "True", "No"],
+        "answer": "Sometimes"
+      }
+    ]
+  },
+  {
+    "subject": "History",
+    "concept": "Gandhiji and Non-violence",
+    "questions": [
+      {
+        "question": "Gandhiji believed in non-violence.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "He led Dandi March.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "He fought with swords.",
+        "options": ["False", "True", "Maybe", "No"],
+        "answer": "False"
+      },
+      {
+        "question": "He fasted to protest.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "He wore simple clothes.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "Non‑violence means no fighting.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "He lived in India.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "He never used violence.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "He was known as Bapu.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "He helped India get independence.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "concept": "Nouns",
+    "questions": [
+      {
+        "question": "Which is a noun?",
+        "options": ["Run", "Elephant", "Quickly", "Yellow"],
+        "answer": "Elephant"
+      },
+      {
+        "question": "‘School’ is a noun.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Cat’ is a noun.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "Noun is name of thing or person.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Run’ is not a noun.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Girl’ is a noun.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Friendship’ is a noun.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Apple’ is a noun.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "Name is noun.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "Noun names places.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "concept": "Verbs",
+    "questions": [
+      {
+        "question": "Which is a verb?",
+        "options": ["Run", "Happy", "Orange", "Apple"],
+        "answer": "Run"
+      },
+      {
+        "question": "Verbs show actions.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Eat’ is a verb.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Smile’ is a verb.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Dance’ is a verb.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Think’ is a verb.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Blue’ is not a verb.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Laugh’ is a verb.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Speak’ is a verb.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      },
+      {
+        "question": "Verbs are doing words.",
+        "options": ["True", "False", "No", "Maybe"],
+        "answer": "True"
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "concept": "Adjectives",
+    "questions": [
+      {
+        "question": "Which is an adjective?",
+        "options": ["Run", "Happy", "Elephant", "Quickly"],
+        "answer": "Happy"
+      },
+      {
+        "question": "Adjective describes noun.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Blue’ is adjective.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Small’ is adjective.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Big’ is adjective.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Happy’ is adjective.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Yellow’ is adjective.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Cold’ is adjective.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "Adjectives tell about colour.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      },
+      {
+        "question": "‘Fast’ is adjective.",
+        "options": ["True", "False", "Maybe", "No"],
+        "answer": "True"
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "concept": "Tenses",
+    "questions": [
+      {
+        "question": "I ___ eat an apple yesterday. (past)",
+        "options": ["will", "can", "did", "am"],
+        "answer": "did"
+      },
+      {
+        "question": "She ___ reads books daily. (present)",
+        "options": ["will", "does", "did", "is"],
+        "answer": "does"
+      },
+      {
+        "question": "He ___ go tomorrow. (future)",
+        "options": ["will", "did", "does", "is"],
+        "answer": "will"
+      },
+      {
+        "question": "They ___ playing now. (present progressive)",
+        "options": ["are", "is", "was", "will"],
+        "answer": "are"
+      },
+      {
+        "question": "I ___ had lunch. (present perfect)",
+        "options": ["have", "has", "will", "had"],
+        "answer": "have"
+      },
+      {
+        "question": "She ___ gone home. (past perfect)",
+        "options": ["had", "has", "will", "did"],
+        "answer": "had"
+      },
+      {
+        "question": "He ___ be reading later. (future progressive)",
+        "options": ["will", "is", "was", "has"],
+        "answer": "will"
+      },
+      {
+        "question": "They ___ been here. (present perfect)",
+        "options": ["have", "had", "will", "are"],
+        "answer": "have"
+      },
+      {
+        "question": "She ___ writing now. (present progressive)",
+        "options": ["is", "are", "was", "will"],
+        "answer": "is"
+      },
+      {
+        "question": "I ___ go tomorrow. (future)",
+        "options": ["will", "did", "does", "have"],
+        "answer": "will"
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "concept": "Sentence Formation",
+    "questions": [
+      {
+        "question": "Choose correct order: “brown / fox / quick / the”.",
+        "options": ["The quick brown fox", "Quick the fox brown", "Brown fox quick the", "Fox quick the brown"],
+        "answer": "The quick brown fox"
+      },
+      {
+        "question": "Choose correct order: “happy / is / she”.",
+        "options": ["She is happy", "Is she happy", "Happy she is", "She happy is"],
+        "answer": "She is happy"
+      },
+      {
+        "question": "Choose correct: “plays cat the”.",
+        "options": ["The cat plays", "Cat the plays", "Plays the cat", "The plays cat"],
+        "answer": "The cat plays"
+      },
+      {
+        "question": "Choose correct: “sun the shines”.",
+        "options": ["The sun shines", "Shines the sun", "Sun the shines", "The shines sun"],
+        "answer": "The sun shines"
+      },
+      {
+        "question": "Choose correct: “drinks he water”.",
+        "options": ["He drinks water", "Drinks he water", "He water drinks", "Water he drinks"],
+        "answer": "He drinks water"
+      },
+      {
+        "question": "Choose correct: “reads she books”.",
+        "options": ["She reads books", "Reads she books", "She books reads", "Books she reads"],
+        "answer": "She reads books"
+      },
+      {
+        "question": "Choose correct: “are birds many there”.",
+        "options": ["There are many birds", "Are there many birds", "Many birds there are", "Birds many are there"],
+        "answer": "There are many birds"
+      },
+      {
+        "question": "Choose correct: “eats dog bone the”.",
+        "options": ["The dog eats the bone", "Dog eats bone", "Eats the dog bone", "The bone dog eats"],
+        "answer": "The dog eats the bone"
+      },
+      {
+        "question": "Choose correct: “they are playing”.",
+        "options": ["They are playing", "Playing they are", "Are they playing", "They playing are"],
+        "answer": "They are playing"
+      },
+      {
+        "question": "Choose correct: “morning good a”.",
+        "options": ["A good morning", "Good a morning", "Morning good a", "Good morning a"],
+        "answer": "A good morning"
+      }
+    ]
+  }
+]
