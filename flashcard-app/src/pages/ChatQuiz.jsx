@@ -15,6 +15,7 @@ const ChatQuiz = ({ subject, concept }) => {
   const [quizCompleted, setQuizCompleted] = useState(false);
   const [score, setScore] = useState(0);
   const [questions, setQuestions] = useState([]);
+  
   const chatRef = useRef(null);
   const audioRef = useRef(null);
   const navigate = useNavigate();

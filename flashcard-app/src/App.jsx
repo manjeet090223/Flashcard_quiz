@@ -9,12 +9,15 @@ import Welcome from './pages/Welcome';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
 
+// New imports for mini games
+import MiniGames from './pages/MiniGames';
+import MatchGame from './games/MatchGame';
+import DragDropGame from './games/DragDropGame';
 
 const ProtectedRoute = ({ children }) => {
   const user = localStorage.getItem('user');
   return user ? children : <Navigate to="/welcome" />;
 };
-
 
 const FlashcardWrapper = () => {
   const { subject } = useParams();
@@ -24,12 +27,10 @@ const FlashcardWrapper = () => {
 function App() {
   return (
     <Routes>
-     
       <Route path="/welcome" element={<Welcome />} />
       <Route path="/login" element={<Login />} />
       <Route path="/signup" element={<Signup />} />
 
-     
       <Route
         path="/"
         element={
@@ -54,8 +55,6 @@ function App() {
           </ProtectedRoute>
         }
       />
-
-      
       <Route
         path="/quiz"
         element={
@@ -77,6 +76,32 @@ function App() {
         element={
           <ProtectedRoute>
             <Result />
+          </ProtectedRoute>
+        }
+      />
+
+      {/* ✅ Mini Games Routes */}
+      <Route
+        path="/mini-games"
+        element={
+          <ProtectedRoute>
+            <MiniGames />
+          </ProtectedRoute>
+        }
+      />
+      <Route
+        path="/mini-games/match"
+        element={
+          <ProtectedRoute>
+            <MatchGame />
+          </ProtectedRoute>
+        }
+      />
+      <Route
+        path="/mini-games/drag-drop"
+        element={
+          <ProtectedRoute>
+            <DragDropGame />
           </ProtectedRoute>
         }
       />
