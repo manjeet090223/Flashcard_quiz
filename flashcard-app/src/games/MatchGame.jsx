@@ -77,7 +77,7 @@ const MatchGame = () => {
         <Lottie
   animationData={celebrate}
   className="trophy-lottie"
-  style={{ width: "600px", height: "600px" }}  // 👈 Force actual trophy size
+  style={{ width: "600px", height: "600px" }}  
 />
 
           <p>🏆 Brilliant! You've matched everything!</p>

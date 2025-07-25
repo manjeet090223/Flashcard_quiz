@@ -9,7 +9,7 @@ import Welcome from './pages/Welcome';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
 
-// New imports for mini games
+
 import MiniGames from './pages/MiniGames';
 import MatchGame from './games/MatchGame';
 import DragDropGame from './games/DragDropGame';

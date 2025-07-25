@@ -35,10 +35,10 @@ const DragDropGame = () => {
   if (match && !matched.includes(draggedItem)) {
     setMatched([...matched, draggedItem]);
     setShowConfetti(true);
-    playSound("correct.mp3"); // ✅ Play correct sound
+    playSound("correct.mp3");
     setTimeout(() => setShowConfetti(false), 1500);
   } else {
-    playSound("wrong.mp3"); // ❌ Play wrong sound
+    playSound("wrong.mp3"); 
   }
   setDraggedItem(null);
   setHovered(null);

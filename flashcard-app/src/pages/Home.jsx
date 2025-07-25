@@ -40,7 +40,7 @@ const Home = () => {
 
   return (
     <div className="home-container">
-      {/* 🔄 Background Lottie Animation */}
+     
       <div className="background-wrapper">
   <Lottie
     animationData={backgroundAnim}
@@ -51,7 +51,7 @@ const Home = () => {
 </div>
 
 
-      {/* 🔝 Top Bar with Logo, Theme Toggle & Profile */}
+     
       <div className="top-nav">
         <img src={logoImg} alt="Brain Bloom Logo" className="app-logo" />
 
@@ -80,7 +80,7 @@ const Home = () => {
         </div>
       </div>
 
-      {/* 📚 Animated Navigation Buttons */}
+     
       <div className="animation-buttons">
         <Link to="/learn" className="lottie-link">
           <Lottie animationData={learnAnimation} loop className="lottie-icon" />
